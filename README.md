@@ -81,7 +81,7 @@ Once loaded, the extension icon should appear in your Chrome toolbar.
 
 ## Contributing
 
-Contributions are welcome! If you’d like to improve this extension, follow these steps:
+Contributions are welcome! If you’d like to improve this extension.
 
 
 
